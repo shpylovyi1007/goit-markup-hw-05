@@ -421,6 +421,7 @@ img {
 
 .footer-box {
   background-color: #2e2f42;
+  flex-shrink: 0;
   padding: 100px 0;
 }
 
