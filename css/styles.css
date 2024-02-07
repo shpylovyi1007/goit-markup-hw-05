@@ -413,6 +413,12 @@ img {
   align-self: stretch;
 }
 
+.position-text {
+  color: #f4f4fd;
+  background-color: #4d5ae5;
+  letter-spacing: 0.02em;
+}
+
 .footer-box {
   background-color: #2e2f42;
   padding: 100px 0;
